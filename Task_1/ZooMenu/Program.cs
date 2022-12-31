@@ -1,3 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using ZooMenu.Models;
+namespace ZooMenu;
 
-Console.WriteLine("Hello, World!");
+class MainClass
+{
+    static void Main(string[] args)
+    {
+        bool showMenu = true;
+        while (showMenu)
+        {
+            showMenu = Menu.MainMenu();
+        }
+    }
+}
