@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooData", "ZooData\ZooData.csproj", "{35286949-1B0B-46C0-A5C6-9BF4B6366AA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooMenu", "ZooMenu\ZooMenu.csproj", "{7FBF7A08-CC68-4847-A534-894A0BAC0D0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{35286949-1B0B-46C0-A5C6-9BF4B6366AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35286949-1B0B-46C0-A5C6-9BF4B6366AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35286949-1B0B-46C0-A5C6-9BF4B6366AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBF7A08-CC68-4847-A534-894A0BAC0D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBF7A08-CC68-4847-A534-894A0BAC0D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBF7A08-CC68-4847-A534-894A0BAC0D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBF7A08-CC68-4847-A534-894A0BAC0D0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
